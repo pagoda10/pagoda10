@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pagoda10
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning python.
